@@ -343,10 +343,21 @@ p.copyright {
 }
 
 input {
+    display: block;
     height: 50%;
     width: 30%;
 }
 
 button {
+    
     height: 50%;
+    width: 15%;
+    margin-left: -1%;
+
+}
+
+.brandicons {
+    display: flex;
+    margin-top: 4%;
+    
 }
